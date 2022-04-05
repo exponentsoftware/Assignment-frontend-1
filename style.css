@@ -85,7 +85,6 @@ section .title{
 }
 section .title::before{
     content: "";
-    position: absolute;
     bottom: -166px;
     left: 50%;
     width: 180px;
